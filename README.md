@@ -1,10 +1,10 @@
-🚀 LeetCode Solutions | C++
+#🚀 LeetCode Solutions | C++
 
 Welcome to my LeetCode Practice Repository! 👋
 
 This repository contains my solutions to LeetCode problems, implemented primarily in C++. I am consistently practicing Data Structures and Algorithms (DSA) to improve my problem-solving skills and prepare for Software Development Engineer (SDE) roles.
 
-👨‍💻 About Me
+#👨‍💻 About Me
 
 🎓 B.Tech Data Science Student
 
@@ -22,7 +22,7 @@ LeetCode: Visit My Profile
 
 GitHub: sundaram9695
 
-📚 Topics Covered
+#📚 Topics Covered
 
 Topic
 
@@ -78,7 +78,7 @@ Dynamic Programming
 
 📂 Repository Structure
 
-LeetCode-Solutions/
+#LeetCode-Solutions/
 │
 ├── Arrays/
 ├── Strings/
@@ -96,7 +96,7 @@ LeetCode-Solutions/
 │
 └── README.md
 
-🎯 My Goals
+#🎯 My Goals
 
 Solve DSA problems consistently.
 
@@ -108,7 +108,7 @@ Maintain clean and readable C++ code.
 
 Prepare for product-based company interviews.
 
-📈 My Progress
+#📈 My Progress
 
 I will keep updating this repository as I solve more problems.
 
